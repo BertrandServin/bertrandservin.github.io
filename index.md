@@ -1,5 +1,4 @@
 ---
-title: Bertrand Servin
 layout: default
 ---
 
