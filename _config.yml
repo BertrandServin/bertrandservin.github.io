@@ -109,8 +109,8 @@ author:
   name             : "Bertrand Servin"
   avatar           : "/assets/images/shadock.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : " "
-  location         : "Toulouse, bottom-left, France"
-  email            : bertrand.servin@inra.fr
+  location         : "Toulouse, France"
+  email            : "bertrand.servin@inra.fr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -120,7 +120,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/BertrandServin"
+      url: "https://twitter.com/BertrandServin"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
